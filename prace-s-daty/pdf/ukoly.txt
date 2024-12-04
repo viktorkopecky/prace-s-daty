@@ -1,0 +1,6 @@
+Zpracujte dokumenty ve form tu PDF:
+1. Z obou dokument  ulo te v dy jen druhou a t et  stranu do samostatn ch soubor  - pvy1.pdf a pvy2.pdf.
+2. Spojte oba nov  vytvo en  dokumenty do jednoho - pvy.pdf
+3. S vyu it m automatick ho p ekladu nechejte p elo it do n m iny a angli tiny text kapitoly "Data, informace, signál".
+3. Ulo te do samostatn ho souboru PNG obr zek obsahuj c  uk zku fiktivn  ISIC karty z t e kapitoly.
+  

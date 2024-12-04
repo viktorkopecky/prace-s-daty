@@ -1,0 +1,43 @@
+Zahrajte si na informaèní detektivy a zjistìte požadovaná fakta o následujících souborech:
+1. Soubor divny.txt:
+    a) Jaké má soubor pøiøazeny atributy a kdy byl vytvoøen i zmìnìn?
+    Atributy: RHA, Vytvoøen: 20.11.2024 9:16 Zmìnìn: 19.10.2012 22:25
+    b) V jakém znakovém kódování je uložen?
+    Unicode UTF-8 no BOM (65001)
+    c) V jakém jazyce je napsán jeho obsah?
+    V japonštinì
+    d) O èem text pojednává a z jakého internetového zdroje pochází (ideálnì uveïte pøesnou URL adresu)?
+    https://ja.wikipedia.org/wiki/%E3%83%97%E3%83%A9%E3%83%8F
+    
+    
+2. Soubor city.jpg:
+    a) Jaké rozmìry má tato fotka (v pixelech)?
+        1366x768
+    b) Jak se jmenuje mìsto na obrázku?
+        Nairobi
+    c) Kde se toto mìsto pøesnì nachází (uveïte stát i kontinent)?
+        stát: Keòa, kontinent: Afrika
+    d) Zjistìte aspoò GPS souøadnice nejvyšší budovy na fotce?
+    	1°18'0,31” j. š., 36°48'46,86” v. d.
+    e) Co se v této budovì nachází?
+        Na vrcholu se nachází vìtrná turbína. Patøí britsko-americké finanèní spoleènosti Britam Holdings.
+    
+3. Soubor person.jpg:
+    a) Jaké jsou bitová hloubka a rozlišení tohoto obrázku?
+        bitová hloubka: 24, rozlišení: 900x900
+    b) Kdo je na této fotografii (jméno, pøíjmení, národnost, povolání)?
+        Katalin Nováková, Maïarsko, politièka, právnièka a ekonomka, v letech 2022–2024 prezidentka Maïarska.
+    c) Uveïte adresu aspoò jednoho profilu této osoby na sociálních sítích.
+        https://www.instagram.com/katalin.novak/?hl=cs
+    d) Najdìte na internetu co nejaktuálnìjší èlánek v èeském jazyce, v nìmž je jméno této osoby zmínìno.
+        https://www.facebook.com/photo.php?fbid=786429810189796&id=100064683521668&set=a.635307235302055&locale=fy_NL
+    
+4. Soubor flag.png:
+    a) Jaká jsou bitová hloubka a rozmìry tohoto obrázku?
+        bitová hloubka: 8, rozmìry: 580x387
+    b) Vlajka kterého státu je na obrázku? 
+        vlajka Bhútánu
+    c) Najdìte bližší informace o tomto státu: rozlohu, poèet obyvatel, hlavní mìsto
+        Rozloha: 38 394 km2, Populace: 787 424, Hlavní mìsto: Thimphu
+    d) Zjistìte pøesné barvy (RGB v desítkové i šestnáctkové soustavì) obou trojúhelníkových blokù v pozadí vlajky.
+        1. barva: ffd520, 16766240, 2. barva: ff4e12, 16731666

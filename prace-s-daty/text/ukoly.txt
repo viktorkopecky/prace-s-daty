@@ -1,0 +1,17 @@
+1. Ve slo ce se nach zej  dva podobn  soubory student1.txt a student2.txt. Z jednoho souboru zmizeli dva studenti. Zjist te, o kter  soubor jde a vypi te (zkop rujte) v echny  daje t ch dvou ne  astn k .
+       Kaszper;Teresa;U1 Sobek;Tobias;SV1B
+2. Pou ijte soubor student1.txt a zjist te:
+    a) jeho p esnou velikost v bajtech
+       2 344 B
+    b) kolik bajt  zab r  na disku
+       4 096 B
+    c) kolik obsahuje znak 
+       2 224
+    d) v jak m k dov n  byl ulo en
+       ANSI
+    e) kter  k estn  jm no je v souboru pou ito nej ast ji
+       Matěj (7krát)
+3. Z skejte ze souboru student1.txt seznam   k  pouze va   t  dy (IT1) a ulo te jej do souboru IT1.txt.
+       
+4. Upravte soubor IT1.txt tak, aby obsahoval pouze PRIJMENI a JMENA   k  bez  esk  diakritiky a zapsan  velk mi p smeny.
+       

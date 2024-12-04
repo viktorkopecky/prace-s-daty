@@ -1,0 +1,15 @@
+1. Zjist te detailn  informace o sta en m videoklipu:
+    a) Jména interpret  i název hudební  skupiny.
+      2CELLOS, Luka  Šulić a Stjepan Hauser 
+    b) N zev skladby.
+      Game of Thrones
+    c) S jak m seri lem je tato skladba spojena? Kdo je autorem sc n  e?
+      Game of Thrones -  David Benioff a D. B. Weiss
+    d) V kter m m st  a st t  se tento klip nat  el? Tu  te pro ?
+      Chorvatsko - protože pochází z Chorvatska
+2. Pou ijte p ehr va  VLC a editor Audacity, abyste:
+    a) Zjistili z kladn   daje o dan m videu: rozli en , d lku, pou it  kodeky (zvuk i obraz)
+      rozlišení : 4k, délka: 5:03, kodeky zvuk:AAC, kodeky obraz:VP9
+    b) Odd lili z videa zvukovou stopu ve form tu MP3.
+
+    c) Vytvo ili zkr cenou zvukovou uk zku dlouhou p esn  30 sekund s postupn m n b hem zvuku na za  tku (efekt FadeIn) a zeslaben m zvuku na konci (efekt FadeOut).  
